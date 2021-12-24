@@ -1,0 +1,1 @@
+web: gunicorn rotafest.wsgi --log-file -
